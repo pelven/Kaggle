@@ -1,2 +1,2 @@
-# Kaggle_DigitRecognizer
-题目地址：https://www.kaggle.com/c/digit-recognizer
+# Kaggle竞赛
+题目地址：https://www.kaggle.com
